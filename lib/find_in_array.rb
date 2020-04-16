@@ -6,6 +6,7 @@ foundvalueindex = nil
     if value_to_find == array[i]
       foundvalueindex = i
       i += 1
+    end
     else
       i += 1
   end
